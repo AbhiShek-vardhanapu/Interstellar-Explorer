@@ -1,4 +1,5 @@
 # Interstellar Explorer 🌌
+![Interstellar Explorer Banner](b2.jpg)
 
 ![Interstellar Explorer Banner](b1.jpg)
 
