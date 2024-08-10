@@ -25,19 +25,15 @@ Ensure you have a modern web browser (Chrome, Firefox, Safari, etc.) for the bes
 Installation
 Clone the repository:
 
-bash
-Copy code
 ```git clone https://github.com/your-username/interstellar-explorer.git```
 Navigate to the project directory:
 
-bash
-Copy code
+
 ```cd interstellar-explorer```
 Compile the SASS file (optional):
 If you need to make changes to the styles and prefer working with SASS:
 
-bash
-Copy code
+
 ```sass style.scss style.css```
 Open the template.html file in your browser:
 Simply double-click the template.html file or use a local server to view the project.
@@ -56,7 +52,6 @@ Special thanks to all the space exploration enthusiasts and educators who inspir
 Resources and references used in the project are credited accordingly within the code.
 Explore the universe like never before with Interstellar Explorer! 🚀
 
-rust
-Copy code
+
 
 This `README.md` file provides a comprehensive overview of your project, including it
