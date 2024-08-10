@@ -1,5 +1,8 @@
 # Interstellar Explorer 🌌
 
+![Interstellar Explorer Banner](b1.jpg)
+
+
 **Interstellar Explorer** is an interactive web-based project that takes users on a journey through the universe, exploring different planets with stunning animations and detailed descriptions. This project is designed to be both educational and visually captivating.
 
 ## Features
